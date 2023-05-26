@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "prettier-fix": "prettier --write ."
+  },
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "fs": "^0.0.1-security",
+    "gray-matter": "^4.0.3",
+    "next": "12.1.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "remark": "^14.0.3",
+    "remark-html": "^15.0.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  }
+}
